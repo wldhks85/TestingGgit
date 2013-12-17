@@ -1,0 +1,222 @@
+!SESSION 2013-12-14 12:26:26.911 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-12-14 12:37:13.685
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-12-14 12:37:13.685
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.685
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.685
+!MESSAGE "Task focused interface for Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.685
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.685
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.685
+!MESSAGE Software being installed: Task focused interface for Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.mylyn.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.685
+!MESSAGE Missing requirement: Git Team Provider UI 3.1.0.201310021548-r (org.eclipse.egit.ui 3.1.0.201310021548-r) requires 'bundle org.eclipse.team.core [3.6.100,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.685
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.685
+!MESSAGE From: Task focused interface for Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.mylyn.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.686
+!MESSAGE To: org.eclipse.egit.mylyn.ui [3.1.0.201310021548-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.686
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.686
+!MESSAGE From: EGit Mylyn UI 3.1.0.201310021548-r (org.eclipse.egit.mylyn.ui 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.686
+!MESSAGE To: package org.eclipse.egit.ui [3.1.0,3.2.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-12-14 12:37:13.691
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-12-14 12:37:13.691
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.691
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.691
+!MESSAGE "Task focused interface for Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:13.691
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.691
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE Software being installed: Task focused interface for Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.mylyn.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE Missing requirement: Git Team Provider UI 3.1.0.201310021548-r (org.eclipse.egit.ui 3.1.0.201310021548-r) requires 'bundle org.eclipse.team.core [3.6.100,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.691
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE From: Task focused interface for Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.mylyn.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE To: org.eclipse.egit.mylyn.ui [3.1.0.201310021548-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:13.691
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE From: EGit Mylyn UI 3.1.0.201310021548-r (org.eclipse.egit.mylyn.ui 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:13.691
+!MESSAGE To: package org.eclipse.egit.ui [3.1.0,3.2.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-12-14 12:37:43.602
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-12-14 12:37:43.602
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:43.603
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:43.603
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:43.603
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.603
+!MESSAGE Software being installed: Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.603
+!MESSAGE Missing requirement: Git Team Provider UI 3.1.0.201310021548-r (org.eclipse.egit.ui 3.1.0.201310021548-r) requires 'bundle org.eclipse.team.core [3.6.100,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:43.603
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.603
+!MESSAGE From: Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.603
+!MESSAGE To: org.eclipse.egit.ui [3.1.0.201310021548-r]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-12-14 12:37:43.605
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-12-14 12:37:43.605
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:43.605
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2013-12-14 12:37:43.605
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:43.605
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.605
+!MESSAGE Software being installed: Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.605
+!MESSAGE Missing requirement: Git Team Provider UI 3.1.0.201310021548-r (org.eclipse.egit.ui 3.1.0.201310021548-r) requires 'bundle org.eclipse.team.core [3.6.100,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-12-14 12:37:43.605
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.605
+!MESSAGE From: Eclipse Git Team Provider 3.1.0.201310021548-r (org.eclipse.egit.feature.group 3.1.0.201310021548-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-12-14 12:37:43.605
+!MESSAGE To: org.eclipse.egit.ui [3.1.0.201310021548-r]
+!SESSION 2013-12-17 12:31:39.235 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 12:36:20.525
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.SWT.error(SWT.java:4168)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:466)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:404)
+	at org.eclipse.swt.widgets.Text.getTextChars(Text.java:1064)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1008)
+	at org.eclipse.egit.ui.UIUtils$2.updateProposals(UIUtils.java:291)
+	at org.eclipse.egit.ui.internal.components.RepositorySelectionPage.getGitRepositoryInfo(RepositorySelectionPage.java:1018)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.executeCloneOperation(AbstractGitCloneWizard.java:433)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.access$2(AbstractGitCloneWizard.java:424)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard$5.run(AbstractGitCloneWizard.java:386)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 12:38:53.638
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.SWT.error(SWT.java:4168)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:466)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:404)
+	at org.eclipse.swt.widgets.Text.getTextChars(Text.java:1064)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1008)
+	at org.eclipse.egit.ui.UIUtils$2.updateProposals(UIUtils.java:291)
+	at org.eclipse.egit.ui.internal.components.RepositorySelectionPage.getGitRepositoryInfo(RepositorySelectionPage.java:1018)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.executeCloneOperation(AbstractGitCloneWizard.java:433)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.access$2(AbstractGitCloneWizard.java:424)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard$5.run(AbstractGitCloneWizard.java:386)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 12:48:06.688
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.SWT.error(SWT.java:4168)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:466)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:404)
+	at org.eclipse.swt.widgets.Text.getTextChars(Text.java:1064)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1008)
+	at org.eclipse.egit.ui.UIUtils$2.updateProposals(UIUtils.java:291)
+	at org.eclipse.egit.ui.internal.components.RepositorySelectionPage.getGitRepositoryInfo(RepositorySelectionPage.java:1018)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.executeCloneOperation(AbstractGitCloneWizard.java:433)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.access$2(AbstractGitCloneWizard.java:424)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard$5.run(AbstractGitCloneWizard.java:386)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 12:49:06.742
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.SWT.error(SWT.java:4168)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:466)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:404)
+	at org.eclipse.swt.widgets.Text.getTextChars(Text.java:1064)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1008)
+	at org.eclipse.egit.ui.UIUtils$2.updateProposals(UIUtils.java:291)
+	at org.eclipse.egit.ui.internal.components.RepositorySelectionPage.getGitRepositoryInfo(RepositorySelectionPage.java:1018)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.executeCloneOperation(AbstractGitCloneWizard.java:433)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard.access$2(AbstractGitCloneWizard.java:424)
+	at org.eclipse.egit.ui.internal.clone.AbstractGitCloneWizard$5.run(AbstractGitCloneWizard.java:386)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 13:01:37.890
+!MESSAGE Failed to refresh projects from index changes
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Errors occurred while refreshing resources with the local file system.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refreshResource(FileSystemResourceManager.java:923)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refresh(FileSystemResourceManager.java:904)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1663)
+	at org.eclipse.egit.ui.Activator$ResourceRefreshJob.run(Activator.java:334)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Contains: The project description file (.project) for 'TrafficInfo' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SUBENTRY 1 org.eclipse.core.resources 4 271 2013-12-17 13:01:37.891
+!MESSAGE Errors occurred while refreshing resources with the local file system.
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2013-12-17 13:01:37.891
+!MESSAGE The project description file (.project) for 'TrafficInfo' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 13:01:37.892
+!MESSAGE Errors occurred while refreshing resources with the local file system.
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 13:01:37.908
+!MESSAGE Failed to refresh projects from index changes
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Errors occurred while refreshing resources with the local file system.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refreshResource(FileSystemResourceManager.java:923)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refresh(FileSystemResourceManager.java:904)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1663)
+	at org.eclipse.egit.ui.Activator$ResourceRefreshJob.run(Activator.java:334)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Contains: The project description file (.project) for 'TestingGit' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SUBENTRY 1 org.eclipse.core.resources 4 271 2013-12-17 13:01:37.908
+!MESSAGE Errors occurred while refreshing resources with the local file system.
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2013-12-17 13:01:37.908
+!MESSAGE The project description file (.project) for 'TestingGit' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.egit.ui 4 0 2013-12-17 13:01:37.909
+!MESSAGE Errors occurred while refreshing resources with the local file system.
