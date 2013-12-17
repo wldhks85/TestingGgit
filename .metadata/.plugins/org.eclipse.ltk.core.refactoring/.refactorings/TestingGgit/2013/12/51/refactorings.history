@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hellow.java&apos; to &apos;Testinggga/src&apos;&#x0A;- Original project: &apos;TestingGgit&apos;&#x0A;- Destination element: &apos;Testinggga/src&apos;&#x0A;- Original element: &apos;Hellow.java&apos;" description="Copy file" destination="=Testinggga/src" element1="RoadTestgit/src/Hellow.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1387256506940" units="0" version="1.0"/>
+</session>
